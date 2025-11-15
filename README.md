@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⭐ About Me:
 Hi! I’m Ziad Moussi, also known as zart_433, a passionate Computer Science student, Software Engineer in progress, and Graphic Designer with experience working with celebrities and public figures.<br>I have a strong drive to build high-quality, reliable, and creative digital solutions — whether in software development, data analysis, or visual design.
 
 
